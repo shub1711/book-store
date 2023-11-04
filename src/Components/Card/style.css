@@ -1,0 +1,5 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px; /* Adjust the gap as needed */
+}
